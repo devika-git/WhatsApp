@@ -16,6 +16,6 @@ pipeline {
                                steps {
 
                                        sh 'cp target/WhatsApp.war /home/devkanya/Documents/Devops-tools/apache-tomcat-9.0.73/webapps'
-        }
+      }
 
-}}}
+   }}}
